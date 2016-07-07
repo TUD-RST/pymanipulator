@@ -11,3 +11,5 @@ It depends on the packages `numpy`, `scipy` and `matplotlib` which do all ship w
 To run the default maneuver use the command `python main_maneuver_control.py`.
 This file can be easily adapted to perform other equilibrium transitions.
 
+![plot of all maneuvers](equilibrium-transition.png)
+
